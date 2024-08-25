@@ -35,7 +35,7 @@ The system comprises the following components:
 3. **Environmental Sensors**: Humidity, temperature, air pressure, and soil moisture sensors for comprehensive environmental monitoring.
 4. **Data Transmission Module**: For sending critical alerts and data to ground stations or cloud servers.
 
-![System Architecture](path_to_your_architecture_image.png)
+[System Architecture Guidelines](SYSTEM_ARCHITECTURE.md)
 
 ## Installation
 
